@@ -1,5 +1,5 @@
 # CPUSimulator
-An Object-Oriented CPU Simulator implemented in C++ using the Factory pattern 🏭 💻 (2016)
+An Object-Oriented CPU Simulator implemented in C++ using the Factory pattern 🏭 💻 (2016).
 
 The tool handles the following instructions:
 * Write
