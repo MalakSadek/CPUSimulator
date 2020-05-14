@@ -1,0 +1,11 @@
+ASS 3, $0
+ASS 10, $2
+ASS $2, $1
+ADD $0, -1, $0
+LE 0, $0, $5
+JMP0 $5, #9
+MUL $1, $2, $1
+ADD $0, -1, $0
+JMP #4
+WRITE $1
+HALT
